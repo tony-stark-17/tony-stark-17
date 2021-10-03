@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Tony Here!
-- 🌱 I’m currently learning Javascript, HTML5, CSS, Python, PHP (That's A Lot)
+- 🌱 I’m currently learning Javascript, HTML5, CSS, Python, PHP, Vue (Phew!)
 - ⚡ FiveM Developer (For Now!)
-
 <!--
 **tony-stark-17/tony-stark-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
