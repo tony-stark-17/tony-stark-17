@@ -1,5 +1,3 @@
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-stark-17&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align = 'center'>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-stark-17&layout=compact&theme=github_dark&hide_border=true"
